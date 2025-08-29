@@ -5,6 +5,9 @@ This project demonstrates the **temperature parameter in Large Language Models (
 - Low temperature → deterministic, predictable outputs
 - High temperature → creative, diverse outputs
 
+
+
+
 ## How to Run
 1. Make sure you have Python installed.
 2. Install the OpenAI library if not installed:
